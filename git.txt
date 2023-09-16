@@ -1,0 +1,10 @@
+git config --global user.name 'Sumit Risal'
+
+git config --global user.email 'risal_305@hotmail.com'
+
+git config --global init.defaultbranch 'main'
+
+
+git config --global -l
+
+git init
